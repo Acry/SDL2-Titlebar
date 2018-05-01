@@ -1,0 +1,16 @@
+#https://docs.travis-ci.com/user/languages/c/#Default-Test-Script
+#.travis.yml
+language: C
+script: make
+compiler:
+  - clang
+  - gcc
+
+addons:
+  apt:
+    packages:
+    - libsdl2-2.0-0
+    - libsdl2-dev
+    - libsdl2-image-2.0-0
+    - libsdl2-image-dev
+

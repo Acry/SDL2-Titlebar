@@ -97,7 +97,10 @@
   </defs>
   <g
      id="Layer"
-     inkpad:layerName="Layer 1">
+     inkpad:layerName="Layer 1"
+     inkscape:export-filename="/home/carsten/projects/SDL2/custom_titlebar/assets/gfx/buttons.png"
+     inkscape:export-xdpi="12.890874"
+     inkscape:export-ydpi="12.890874">
     <path
        d="m70.77 252.62c0-97.44 81.76-176.43 182.61-176.43 100.86 0.004 182.62 78.99 182.62 176.43s-81.76 176.43-182.62 176.43c-100.85 0-182.61-78.99-182.61-176.43z"
        fill="#d9ac32"
@@ -123,7 +126,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:publisher>
           <cc:Agent
              rdf:about="http://openclipart.org/">
@@ -145,7 +148,10 @@
   </metadata>
   <g
      id="g888"
-     transform="translate(-124.25904,9.9001525)">
+     transform="translate(-124.25904,9.9001525)"
+     inkscape:export-filename="/home/carsten/projects/SDL2/custom_titlebar/assets/gfx/buttons.png"
+     inkscape:export-xdpi="12.890874"
+     inkscape:export-ydpi="12.890874">
     <path
        style="fill:#d9ac32"
        inkscape:connector-curvature="0"
