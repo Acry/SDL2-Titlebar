@@ -1,5 +1,5 @@
-SDL2 - Custom Titlebar
-
+SDL2 - Custom Titlebar  
+[![Build Status](https://travis-ci.org/Acry/SDL2-Titlebar.svg?branch=master)](https://travis-ci.org/Acry/SDL2-Titlebar)  
 This is a small SDL2 Demo and it does demonstrate how...  
 
   * to roll your own Window Deco
