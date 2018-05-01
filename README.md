@@ -11,6 +11,8 @@ Screenshot:
 ![Screenshot](./screenshot.png)
 
 Assets  
-in source folder - opencliparts  
+in src folder  
+<https://openclipart.org/detail/191869/up-button-arrow>  
+<https://openclipart.org/detail/215453/exit>  
 
 [Get in touch on SDL-Discourse](https://discourse.libsdl.org/u/Acry/summary)
