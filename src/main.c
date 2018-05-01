@@ -160,6 +160,7 @@ void assets_in(void)
 
 	//BEGIN ICON
 	temp_surface=IMG_Load("./assets/gfx/icon.png");
+	SDL_SetWindowIcon(Window, temp_surface);
 	icon=SDL_CreateTextureFromSurface(Renderer, temp_surface);
 	SDL_QueryTexture(icon, NULL, NULL, &icon_dst.w, &icon_dst.h);
 	icon_dst.w*=.75;
